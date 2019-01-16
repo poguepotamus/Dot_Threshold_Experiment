@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dot_Threshold_Exp_3.8", "Dot_Threshold_Exp_3.8\Dot_Threshold_Exp_3.8.vcproj", "{C3A5E34F-324B-4369-B363-40AD144DC8C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3A5E34F-324B-4369-B363-40AD144DC8C0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C3A5E34F-324B-4369-B363-40AD144DC8C0}.Debug|Win32.Build.0 = Debug|Win32
+		{C3A5E34F-324B-4369-B363-40AD144DC8C0}.Release|Win32.ActiveCfg = Release|Win32
+		{C3A5E34F-324B-4369-B363-40AD144DC8C0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
